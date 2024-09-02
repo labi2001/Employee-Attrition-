@@ -1,5 +1,6 @@
 
 Employee Attrition Risk Prediction
+
 Project Overview
 This repository contains a project focused on predicting employee attrition risk. The goal is to analyze employee data and build a model to identify those at high risk of leaving the organization. By utilizing predictive analytics, the project aims to provide actionable insights to improve employee retention.
 
